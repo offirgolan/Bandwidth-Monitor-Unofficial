@@ -3,9 +3,8 @@ Bandwidth-Monitor-Unofficial
 
 About
 =====
-An elegant and minimal freeware bandwidth monitoring application for mac users living in the Purdue University dorms. Pending publication by Purdue ResNet.
 
-Since this application has been submitted to guys over at ResNet for publication, I cannot post actual code until I recieve permission from them. 
+An elegant and minimal freeware bandwidth monitoring application for mac users living in the Purdue University dorms. Pending publication by Purdue ResNet.
 
 
 Features
@@ -24,3 +23,11 @@ Features
 - Stop monitoring when internet connection is disabled
 - Automatic reset of monitoring when internet has been reconnected
 - Open at login
+
+Note
+====
+
+This is an unofficial product. This is only the application I submitted to Purdue and does not and will not contain the changes they make. 
+
+Since this application has been submitted to guys over at ResNet for publication, I cannot post actual code until I recieve permission from them. 
+
