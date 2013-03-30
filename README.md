@@ -29,5 +29,8 @@ Note
 
 This is an unofficial product. This is only the application I submitted to Purdue and does not and will not contain the changes they make. 
 
-Since this application has been submitted to guys over at ResNet for publication, I cannot post actual code until I recieve permission from them. 
+Download
+========
+
+The official release of this application can be found [Here](https://my.resnet.purdue.edu/downloads/by_os/mac-os-x) under the Bandwidth tab. 
 
