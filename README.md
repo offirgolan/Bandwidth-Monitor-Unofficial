@@ -1,5 +1,5 @@
-Bandwidth-Monitor-Unofficial
-============================
+Bandwidth Monitor (Unofficial)
+==============================
 
 About
 =====
